@@ -1,6 +1,6 @@
 #### 1、基础
 
-![image-20220913103745091](C:\Users\huangxuemei\AppData\Roaming\Typora\typora-user-images\image-20220913103745091.png)
+![[image-20220913103745091.png]]
 
 **编码不同，占用的字节就不同，不同编码之间不能相互识别，编码与解码必须一样**
 
@@ -8,7 +8,7 @@
 
 在计算机内存中使用的是Unicode编码格式，当数据需要保存在硬盘或者需要网络传输的时候，就转换为非Unicode的编码格式。
 
-![image-20220913104226428](C:\Users\huangxuemei\AppData\Roaming\Typora\typora-user-images\image-20220913104226428.png)
+![[image-20220913104226428.png]]
 
 #### 3、编码转换
 

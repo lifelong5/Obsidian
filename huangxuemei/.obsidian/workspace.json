@@ -8,12 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6fb20abf2fbb58e3",
+            "id": "a407534c9f07b953",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "图片库/Pasted image 20221123144655.png"
+                "file": "面试/自我介绍.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419.5
+    "width": 429.5
   },
   "right": {
     "id": "f55cf43ef079bdc0",
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "图片库/Pasted image 20221123144655.png",
+                "file": "面试/自我介绍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "图片库/Pasted image 20221123144655.png",
+                "file": "面试/自我介绍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,16 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "图片库/Pasted image 20221123144655.png"
+                "file": "面试/自我介绍.md"
               }
             }
+          },
+          {
+            "id": "738f6d5dbd4911e5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,34 +156,50 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6fb20abf2fbb58e3",
+  "active": "a407534c9f07b953",
   "lastOpenFiles": [
-    "数据结构/c++容器.md",
-    "数据结构/哈希表.md",
-    "数据结构/贪心算法.md",
-    "数据结构/数字反翻译成字符串有多少种翻译结果.md",
-    "数据结构/随机数.md",
-    "数据结构/KMP算法求字符匹配.md",
-    "数据结构/从左往右的尝试模型（背包问题）.md",
-    "数据结构/遍历.md",
-    "数据结构/背包问题.md",
-    "数据结构/暴力递归.md",
-    "数据结构/基础概念/算法分析.md",
-    "数据结构/基础概念/大纲.md",
-    "数据结构/有效的括号.md",
-    "数据结构/选择排序.md",
-    "数据结构/位运算.md",
-    "数据结构/拓扑排序.md",
-    "数据结构/插入排序.md",
-    "c++容器.md",
-    "股票系列问题.md",
-    "未命名 1",
-    "有效的括号.md",
-    "数字反翻译成字符串有多少种翻译结果.md",
-    "链表中的节点每k个一组进行反转.md",
-    "获取字符串的全排列-分支限界.md",
-    "获取字符串的全部序列.md",
-    "获取字符串的全部排列-去重版.md",
-    "动态规划.md"
+    "面试/网络基础.md",
+    "面试/设计模式.md",
+    "面试/排序算法.md",
+    "面试/面试复习.md",
+    "面试/龙图游戏一面.md",
+    "百人计划/色彩空间.md",
+    "百人计划/1.1渲染流水线.md",
+    "常用算法/SDF.md",
+    "百人计划",
+    "面试/自我介绍.md",
+    "面试",
+    "常用算法/视差映射.md",
+    "常用算法/常用算法普及-RayMarching.md",
+    "常用算法/光线步进.md",
+    "虚幻/smoothstep.md",
+    "虚幻/虚幻-材质编辑器.md",
+    "虚幻/分形理论讲解.md",
+    "虚幻/材质表达式.md",
+    "shader入门精要/PBS.md",
+    "shader入门精要/渲染路径.md",
+    "shader入门精要/纹理动画.md",
+    "shader入门精要/纹理.md",
+    "shader入门精要/透明效果.md",
+    "shader入门精要/光照模型.md",
+    "shader入门精要/光源类型.md",
+    "shader入门精要/高级纹理.md",
+    "笔试/5.10编程选择题.md",
+    "shader入门精要",
+    "笔试/c++.md",
+    "笔试/c++",
+    "games101",
+    "图片库/typora-user-images/image-20220913103745091.png",
+    "图片库/typora-user-images/image-20220929202408961.png",
+    "图片库/typora-user-images/image-20220929173936602.png",
+    "图片库/typora-user-images/image-20220921204853377.png",
+    "图片库/typora-user-images/image-20220922112650443.png",
+    "图片库/typora-user-images/image-20220916193804858.png",
+    "图片库/typora-user-images/image-20220916202034272.png",
+    "图片库/typora-user-images/image-20220916202110519.png",
+    "图片库/typora-user-images/image-20220916210347271.png",
+    "图片库/typora-user-images/image-20220921204552657.png",
+    "图片库/typora-user-images",
+    "未命名 1"
   ]
 }
