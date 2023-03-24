@@ -8,79 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8841e7f84e0e5faf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "c++容器.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6fb20abf2fbb58e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "股票系列问题.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b0068ea8a6e55cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "c++容器.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cadedd90d811ac83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "链表中的节点每k个一组进行反转.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d12819d9e7e88205",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "有效的括号.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1334c3b826b53b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "获取字符串的全排列.md",
-                "mode": "source",
-                "source": false
+                "file": "图片库/Pasted image 20221123144655.png"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 419.5
   },
   "right": {
     "id": "f55cf43ef079bdc0",
@@ -146,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "股票系列问题.md",
+                "file": "图片库/Pasted image 20221123144655.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "股票系列问题.md",
+                "file": "图片库/Pasted image 20221123144655.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "股票系列问题.md"
+                "file": "图片库/Pasted image 20221123144655.png"
               }
             }
           }
@@ -211,6 +148,23 @@
   },
   "active": "6fb20abf2fbb58e3",
   "lastOpenFiles": [
+    "数据结构/c++容器.md",
+    "数据结构/哈希表.md",
+    "数据结构/贪心算法.md",
+    "数据结构/数字反翻译成字符串有多少种翻译结果.md",
+    "数据结构/随机数.md",
+    "数据结构/KMP算法求字符匹配.md",
+    "数据结构/从左往右的尝试模型（背包问题）.md",
+    "数据结构/遍历.md",
+    "数据结构/背包问题.md",
+    "数据结构/暴力递归.md",
+    "数据结构/基础概念/算法分析.md",
+    "数据结构/基础概念/大纲.md",
+    "数据结构/有效的括号.md",
+    "数据结构/选择排序.md",
+    "数据结构/位运算.md",
+    "数据结构/拓扑排序.md",
+    "数据结构/插入排序.md",
     "c++容器.md",
     "股票系列问题.md",
     "未命名 1",
@@ -220,16 +174,6 @@
     "获取字符串的全排列-分支限界.md",
     "获取字符串的全部序列.md",
     "获取字符串的全部排列-去重版.md",
-    "动态规划.md",
-    "背包问题.md",
-    "暴力递归.md",
-    "效果实现/测试题二-黄雪梅.md",
-    "图形学/PBR/白皮书/五、几何函数相关总结.md",
-    "图形学/PBR/白皮书/四、法线分布函数相关总结.md",
-    "图形学/PBR/白皮书/三、迪士尼原则的BRDF与BSDF相关总结.md",
-    "图形学/PBR/白皮书/一、PBR核心知识体系总结与概览.md",
-    "图形学/PBR/白皮书/二、PBR核心理论与渲染光学原理.md",
-    "获取字符串的全排列.md",
-    "games104/如何构建游戏世界.md"
+    "动态规划.md"
   ]
 }
