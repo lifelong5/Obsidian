@@ -13,7 +13,75 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构/例题/获取字符串的全部序列.md",
+                "file": "shader入门精要/透明效果.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51a8dbf006e062a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "面试/c++八股文.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "541fc7bdeebd5ff1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "面试/未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ffbc75e64369ce1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "图片库/Pasted image 20230403114822.png"
+              }
+            }
+          },
+          {
+            "id": "39b87dcb20ea5029",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "图片库/Pasted image 20230403114822.png"
+              }
+            }
+          },
+          {
+            "id": "877c46b21b431ad4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "毕业设计/unity选中屏幕空间对象.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68e3937e292b7ce4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "毕业设计/unity选中屏幕空间对象.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,18 +184,6 @@
             }
           },
           {
-            "id": "a2badd30064ea136",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数据结构/随机数.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b7b37c0deb1a9db2",
             "type": "leaf",
             "state": {
@@ -140,7 +196,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -206,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构/随机数.md",
+                "file": "毕业设计/unity选中屏幕空间对象.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据结构/随机数.md",
+                "file": "毕业设计/unity选中屏幕空间对象.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构/随机数.md"
+                "file": "毕业设计/unity选中屏幕空间对象.md"
               }
             }
           },
@@ -277,52 +333,52 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a2badd30064ea136",
+  "active": "68e3937e292b7ce4",
   "lastOpenFiles": [
-    "面试/c++八股文.md",
-    "c++/构造函数、析构函数的调用顺序.md",
-    "图片库/Pasted image 20230329235755.png",
-    "笔试/c++/虚函数.md",
-    "图片库/Pasted image 20230329234355.png",
-    "图片库/Pasted image 20230329234239.png",
-    "图片库/Pasted image 20230329233133.png",
-    "笔试/c++/内联函数.md",
-    "c++/构造函数.md",
-    "c++/析构函数.md",
-    "c++/指针和引用.md",
-    "c++/继承权限.md",
-    "图片库/Pasted image 20230329171836.png",
-    "c++/访问权限.md",
-    "引用.md",
-    "c++/静态变量.md",
-    "c++/野指针和悬挂指针.md",
-    "c++/const.md",
-    "c++/全局变量.md",
-    "面试/c++八股文",
-    "面试/c++八股文/操作系统.md",
-    "面试/c++八股文/c++语言.md",
-    "面试/c++八股文/数据库.md",
-    "面试/c++八股文/网络编程.md",
-    "面试/c++八股文/网络原理.md",
-    "面试/c++八股文/数据结构与算法.md",
-    "面试/排序算法.md",
-    "面试/自我介绍.md",
-    "面试/c++八股文",
-    "面试/网络基础.md",
+    "毕业设计/UI.md",
+    "毕业设计/unity选中屏幕空间对象.md",
+    "Pasted image 20230405170900.png",
+    "Pasted image 20230405170829.png",
+    "Pasted image 20230405170814.png",
+    "图片库/Pasted image 20230403114822.png",
+    "毕业设计",
     "面试/设计模式.md",
+    "面试/自我介绍.md",
+    "面试/c++八股文.md",
+    "面试/排序算法.md",
+    "数据结构/快速排序.md",
+    "数据结构/红黑树.md",
+    "shader入门精要/PBS.md",
+    "图片库/Pasted image 20230403114341.png",
+    "c++/虚函数.md",
+    "c++/全局变量.md",
+    "c++/静态变量.md",
+    "shader入门精要/轮廓线的实现方法.md",
+    "面试/未命名.md",
+    "面试/网络基础.md",
     "面试/面试复习.md",
-    "图片库/Pasted image 20230326190055.png",
-    "图片库/Pasted image 20230326183333.png",
+    "面试/龙图游戏一面.md",
+    "图片库/Pasted image 20230403113554.png",
+    "图片库/Pasted image 20230403111827.png",
+    "图片库/Pasted image 20230403111749.png",
+    "图片库/Pasted image 20230403110808.png",
+    "图片库/Pasted image 20230403110747.png",
+    "c++/STL容器.md",
+    "数据结构/哈希表.md",
+    "shader入门精要/透明效果.md",
+    "shader入门精要/渲染路径.md",
+    "shader入门精要/纹理动画.md",
+    "shader入门精要/纹理.md",
+    "shader入门精要/光源类型.md",
+    "shader入门精要/高级纹理.md",
+    "面试/c++八股文",
+    "面试/c++八股文",
     "c++/Essential C++",
     "c++",
     "数据结构/例题",
     "百人计划",
     "面试",
     "shader入门精要",
-    "笔试/c++",
-    "games101",
-    "图片库/typora-user-images/image-20220913103745091.png",
-    "图片库/typora-user-images/image-20220929202408961.png",
-    "图片库/typora-user-images/image-20220929173936602.png"
+    "笔试/c++"
   ]
 }
