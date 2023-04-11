@@ -68,7 +68,7 @@
 
 通用的microfacet Cook-Torrance BRDF着色模型：
 
-![image-20221103144000370](C:\Users\huangxuemei\AppData\Roaming\Typora\typora-user-images\image-20221103144000370.png)
+![[image-20221103144000370.png]]
 
 - diffuse为漫反射项
 - 第二项为镜面反射项
@@ -82,9 +82,10 @@
 
 使用了Schlick Fresnel近似，并修改掠射逆反射以达到其特定值由粗糙度确定，而不是简单为0。
 
-![image-20221031150656314](C:\Users\huangxuemei\AppData\Roaming\Typora\typora-user-images\image-20221031150656314.png)
+![[image-20221031150656314.png]]
 
-其中：![image-20221031150914768](C:\Users\huangxuemei\AppData\Roaming\Typora\typora-user-images\image-20221031150914768.png)
+其中：
+![[image-20221031150914768.png]]
 
 从公式中可以看出漫反射项受到粗糙度影响。
 
@@ -103,18 +104,21 @@ float3 Diffuse_Burley_Disney(float3 DiffuseColor,float Roughness,float v,float l
 
 ##### 法线分布项：
 
-###### [TR（Trowbridge-Reitz）/GGX](微表面法线分布函数--GXX)：![image-20221103144309733](C:\Users\huangxuemei\AppData\Roaming\Typora\typora-user-images\image-20221103144309733.png)
+###### [TR（Trowbridge-Reitz）/GGX](微表面法线分布函数--GXX)：
+
+![[image-20221103144309733.png]]
 
 - c为缩放常数
 - 阿尔法为粗糙度参数，其值在【0，1】之间，0为完全光滑的分布，1为完全粗糙或均匀的分布
 
-###### Berry：![image-20221103144817517](C:\Users\huangxuemei\AppData\Roaming\Typora\typora-user-images\image-20221103144817517.png)
+###### Berry：
+![[image-20221103144817517.png]]
 
 ###### GTR：
 
 对比TR与Berry对比得知，当r的系数越小产生的尾部越长，所以disney对r进行n次幂的推广，这就是GTR，Generalized-Trowbridge-Reitz
 
-![image-20221103145521206](C:\Users\huangxuemei\AppData\Roaming\Typora\typora-user-images\image-20221103145521206.png)
+![[image-20221103145521206.png]]
 
 r为1即为TR，r为2的时候为Berry，不同的r有不同的效果，如下图
 
@@ -173,7 +177,7 @@ float D_GTR2_aniso(float dotHX, float dotHY, float dotNH, float ax, float ay)
 
 ###### Schlick Fresnel：
 
-![image-20221103170117025](C:\Users\huangxuemei\AppData\Roaming\Typora\typora-user-images\image-20221103170117025.png)
+![[image-20221103170117025.png]]
 
 - F0表示垂直入射时的镜面反射率
 - θd为半矢量h和视线矢量v之间的夹角
@@ -194,8 +198,7 @@ float3 F_Schlick(float HdotV, float3 F0)
 - 主波瓣
 
   使用GGX导出的G项，并将粗糙度进行重映射以减少光泽表面的极端，即α的值为(0.5 + roughness/2)^2。
-
-  ![image-20221103170720813](C:\Users\huangxuemei\AppData\Roaming\Typora\typora-user-images\image-20221103170720813.png)
+![[image-20221103170720813.png]]
 
 - 次级波瓣
 
