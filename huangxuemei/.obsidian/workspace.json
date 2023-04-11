@@ -109,19 +109,163 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "c++/继承权限.md",
+                "file": "网易/逆水寒游戏中的开源引入.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a2badd30064ea136",
+            "id": "bc545cfcb1ec0a4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构/随机数.md",
+                "file": "网易/天谕学习/lua中文教程/第二章类型和值.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7fc7332f50cd47e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "网易/天谕学习/lua中文教程/第一章.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8198d78d5be7dcb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "网易/天谕学习/lua中文教程/第三章.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d00c5b0170f470c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "网易/天谕学习/lua中文教程/第四章基本语法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a005a656e8cecdf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "网易/天谕学习/lua中文教程/第五章函数.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7bb4d13841fb9816",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "网易/天谕学习/lua中文教程/第六章再谈函数.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "acfc0b106e825d49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "网易/天谕学习/lua中文教程/第七章迭代器和泛型.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "294a5cb53740e85e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "网易/天谕学习/lua中文教程/第十一章数据结构.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d4f41ce246c8134e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "网易/天谕学习/lua中文教程/第十三章.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae5b0652700d74ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "网易/天谕学习/lua中文教程/第十六章面向对象程序设计.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a291efd419d4ea7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "网易/天谕学习/tolua/热更新.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b5c7a72fc37044d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "网易/天谕学习/unity打包原理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28c8b6baf983ade5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "网易/天谕学习/模型与动画.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +284,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -206,7 +350,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构/随机数.md",
+                "file": "网易/天谕学习/模型与动画.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +367,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据结构/随机数.md",
+                "file": "网易/天谕学习/模型与动画.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +390,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构/随机数.md"
+                "file": "网易/天谕学习/模型与动画.md"
               }
             }
           },
@@ -277,52 +421,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a2badd30064ea136",
+  "active": "28c8b6baf983ade5",
   "lastOpenFiles": [
-    "面试/c++八股文.md",
-    "c++/构造函数、析构函数的调用顺序.md",
-    "图片库/Pasted image 20230329235755.png",
-    "笔试/c++/虚函数.md",
-    "图片库/Pasted image 20230329234355.png",
-    "图片库/Pasted image 20230329234239.png",
-    "图片库/Pasted image 20230329233133.png",
-    "笔试/c++/内联函数.md",
-    "c++/构造函数.md",
-    "c++/析构函数.md",
-    "c++/指针和引用.md",
+    "Pasted image 20230411102210.png",
+    "Pasted image 20230411102159.png",
+    "Pasted image 20230411102129.png",
+    "Pasted image 20230411102104.png",
+    "Pasted image 20230411102054.png",
+    "Pasted image 20230411102036.png",
+    "Pasted image 20230411102027.png",
+    "Pasted image 20230411102006.png",
+    "Pasted image 20230411101955.png",
+    "Pasted image 20230411101850.png",
+    "Pasted image 20230411101834.png",
+    "网易/天谕学习/unity打包原理.md",
+    "网易/天谕学习/模型与动画.md",
+    "网易/天谕学习/tolua/热更新.md",
+    "网易/天谕学习/tolua/未命名 1.md",
+    "网易/天谕学习/lua中文教程/第十六章面向对象程序设计.md",
+    "网易/天谕学习/tolua",
+    "网易/天谕学习/lua中文教程/第十三章.md",
+    "网易/天谕学习/lua中文教程/第十一章数据结构.md",
+    "网易/天谕学习/lua中文教程/第七章迭代器和泛型.md",
+    "网易/天谕学习/lua中文教程/第六章再谈函数.md",
+    "网易/天谕学习/lua中文教程/第五章函数.md",
+    "网易/天谕学习/lua中文教程/第四章基本语法.md",
+    "网易/天谕学习/lua中文教程/第三章.md",
+    "网易/天谕学习/lua中文教程/第一章.md",
+    "网易/天谕学习/lua中文教程/第二章类型和值.md",
+    "网易/逆水寒游戏中的开源引入.md",
+    "网易/天谕学习/lua中文教程",
+    "网易/天谕学习",
+    "图形学/PBR/白皮书/一、PBR核心知识体系总结与概览.md",
+    "图形学/PBR/白皮书/二、PBR核心理论与渲染光学原理.md",
+    "games101/欧拉方法.md",
+    "games101/颜色.md",
+    "games101/复杂的外观建模.md",
+    "games101/辐射度量学.md",
+    "games101/动画.md",
+    "games101/材质和外观.md",
     "c++/继承权限.md",
-    "图片库/Pasted image 20230329171836.png",
-    "c++/访问权限.md",
-    "引用.md",
-    "c++/静态变量.md",
-    "c++/野指针和悬挂指针.md",
-    "c++/const.md",
-    "c++/全局变量.md",
+    "image-20220414192312448.png.md",
     "面试/c++八股文",
-    "面试/c++八股文/操作系统.md",
-    "面试/c++八股文/c++语言.md",
-    "面试/c++八股文/数据库.md",
-    "面试/c++八股文/网络编程.md",
-    "面试/c++八股文/网络原理.md",
-    "面试/c++八股文/数据结构与算法.md",
-    "面试/排序算法.md",
-    "面试/自我介绍.md",
     "面试/c++八股文",
-    "面试/网络基础.md",
-    "面试/设计模式.md",
-    "面试/面试复习.md",
-    "图片库/Pasted image 20230326190055.png",
-    "图片库/Pasted image 20230326183333.png",
     "c++/Essential C++",
     "c++",
     "数据结构/例题",
     "百人计划",
-    "面试",
-    "shader入门精要",
-    "笔试/c++",
-    "games101",
-    "图片库/typora-user-images/image-20220913103745091.png",
-    "图片库/typora-user-images/image-20220929202408961.png",
-    "图片库/typora-user-images/image-20220929173936602.png"
+    "面试"
   ]
 }

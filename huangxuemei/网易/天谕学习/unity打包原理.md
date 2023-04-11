@@ -1,0 +1,14 @@
+#### 打包方式
+- unity自动打包
+unity场景中直接使用到的静态资源，这些资源只需要放在asset文件中，unity会自动加载和打包，不需要关心。
+- Resource
+在Unity工程的Assets目录下面可以建一个Resources文件夹，在这个文件夹下面放置的所有资源，不论是否被场景用到，都会被打包到游戏中，并且可以通过Resources.Load方法动态加载。这是平时开发是常用的资源加载方式，但是缺点是资源都直接打包到游戏包中了，没法做增量更新。
+- AssetBundle
+我们可以通过编辑器脚本来将资源打包成多个独立的AssetBundle。这些AssetBundle和游戏包是分离的，可以通过WWW类来加载。
+Unity5可以通过每个资源Inspector底部的AssetBundle下拉来指定该资源要打入哪个包，不指定就是不打包。打包过程只需要BuildPipeline.BuildAssetBundles一句话就行了，Unity5会根据依赖关系自动生成所有的包。每个包还会生成一个manifest文件，这个文件描述了包大小、crc验证、包之间的依赖关系等等，通过这个manifest打包工具在下次打包的时候可以判断哪些包中的资源有改变，只打包资源改变的包，加快了打包速度。
+#### AssertBundle开发流程
+1. 创建AssertBundle，在unity编辑器中通过脚本将所需要的资源打包成为assertbundle文件
+2. 上传服务器：将打包好的assertbundle文件上传至服务器中，这样客户端能从服务端获取得到assertbundle文件。
+3. 下载assertbundle：下载assertbundle文件到本地设备当中，然后通过assertbundle的加载模块将资源加在游戏中。
+4. 加载：通过unity提供的API可以加载资源里面包含的资源来更新客户端。
+5. 卸载：：更新客户端完成之后，进行卸载。
